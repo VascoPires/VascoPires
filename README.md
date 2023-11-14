@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VascoPires
 - 👀 I’m interested in Finite Element Method and using programing to solve Mechanical Problems..
-- 🌱 I’m currently learning Mechanichal Engineering @FEUP
 - 📫 How to reach me: vascodcpires@gmail.com
 
 <!---
