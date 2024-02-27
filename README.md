@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VascoPires
-- 👀 I’m interested in Finite Element Method and using programing to solve Mechanical Problems..
-- 📫 How to reach me: vascodcpires@gmail.com
+- 👀 I’m interested in Finite Element Method and using programing to solve Mechanical Problems...
 
 <!---
 VascoPires/VascoPires is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
